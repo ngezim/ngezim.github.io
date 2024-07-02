@@ -464,7 +464,45 @@ VB,http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
 ABC新闻,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
 CanadaOne,http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 
-
+油管代理,#genre#
+TVBS新闻,https://www.youtube.com/watch?v=2mCSYvcfhtc
+中天新闻,https://www.youtube.com/watch?v=oIgbl7t0S_w
+三立新闻,https://www.youtube.com/watch?v=oZdzzvxTfUY
+东森新闻,https://www.youtube.com/watch?v=S5WOGu2HSes
+寰宇新闻,https://www.youtube.com/watch?v=B7Zp3d6xXWw
+民视新闻,https://www.youtube.com/watch?v=ylYJSBUgaMA
+华视新闻,https://www.youtube.com/watch?v=wM0g8EoUZ_E
+公视新闻,https://www.youtube.com/watch?v=quwqlazU-c8
+台视新闻,https://www.youtube.com/watch?v=xL0ch83RAK8
+中视新闻,https://www.youtube.com/watch?v=TCnaIE_SAtM
+TVBS Live,https://www.youtube.com/watch?v=m_dhMSvUCIc
+TVBS 56,https://www.youtube.com/watch?v=YvdcZ_jpLXE
+中天新闻2台,https://www.youtube.com/watch?v=WPfPjbOLNfE
+寰宇新闻台湾,https://www.youtube.com/watch?v=UcTIv4ZaE5Y
+凤凰资讯台,https://www.youtube.com/watch?v=if6yQq_JJyY
+东森直播,https://www.youtube.com/watch?v=R2iMq5LKXco
+东森财经,https://www.youtube.com/watch?v=WHEPzbFA3hw
+三立iNEWS,https://www.youtube.com/watch?v=CKjSm5ZeehE
+三立海外,https://www.youtube.com/watch?v=FoBfXvlOR6I
+TaiwanPlus,https://www.youtube.com/watch?v=dZp87qnWelE
+镜新闻,https://www.youtube.com/watch?v=5n0y6b0Q25o
+东京都-新宿,https://www.youtube.com/watch?v=DjdUEyjx8GM
+台湾地震监视,https://www.youtube.com/watch?v=Owke6Quk7T0
+新唐人,https://www.youtube.com/watch?v=WIhgU_mc05A
+信大电视台,https://www.youtube.com/watch?v=AQymzwl3uSk
+NBC NEW,https://www.youtube.com/watch?v=0IUbD_4ytuo
+DW,https://www.youtube.com/watch?v=pqabxBKzZ6M
+FRANCE 24,https://www.youtube.com/watch?v=h3MuIUNCCzI
+Sky News,https://www.youtube.com/watch?v=9Auq9mYxFEE
+ABC News,https://www.youtube.com/watch?v=w_Ma8oQLmSM
+Euronews,https://www.youtube.com/watch?v=pykpO5kQJ98
+CNA,https://www.youtube.com/watch?v=XWq5kBlakcQ
+National Geographic,https://www.youtube.com/watch?v=306xLRnW3Cc
+Nat Geo WILD,https://www.youtube.com/watch?v=6zGV59Ldp3s
+ANIMALS OF AFRICA 4K,https://www.youtube.com/watch?v=XHI_U7suyxg
+GREAT HUNTER - 4K,https://www.youtube.com/watch?v=vQP8AwAFzI8
+Most Beautiful Places 12K,https://www.youtube.com/watch?v=Rse-E5tARaY
+4K African Animal,https://www.youtube.com/watch?v=rkPCR6Ujtak
 
 春晚,#genre#
 1983年,http://txmov2.a.kwimgs.com/bs3/video-hls/5207287136834522947_hlshd15.m3u8
